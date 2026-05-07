@@ -68,6 +68,9 @@
 
 ###
 
-![](https://github-readme-stats.shion.dev/api?username=peenjeee&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<div align="center">
+  
+  ![](https://github-readme-stats.shion.dev/api?username=peenjeee&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+</div>
 
 ###
