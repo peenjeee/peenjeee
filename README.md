@@ -8,7 +8,7 @@
 
 <p align="center">
 💻 Passionate about software development.<br>
-🎮 I enjoy reverse engineering games and building my own cheats whenever I can.
+🎮 I enjoy reverse engineering games, building my own cheats, and using them whenever I play.
 </p>
 
 <br>
