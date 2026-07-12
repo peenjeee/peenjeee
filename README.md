@@ -9,7 +9,10 @@
 <p align="center">
 💻 Passionate about software development.<br>
 🎮 I enjoy reverse engineering games, building my own cheats, and using them whenever I play.<br>
-📺 I also share my game cheats on <a href="https://youtube.com/@peenjeeech">YouTube</a> and <a href="https://t.me/peenjeeech">Telegram</a>.
+📺 I also share my game cheats on my YouTube channels:
+<a href="https://youtube.com/@peenjeee">@peenjeee</a> &
+<a href="https://youtube.com/@peenjeeech">@peenjeeech</a>,
+and on <a href="https://t.me/peenjeeech">Telegram</a>.
 </p>
 
 <!-- <div align="center">
