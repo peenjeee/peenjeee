@@ -8,10 +8,9 @@
 
 <p align="center">
 💻 Passionate about software development.<br>
-🎮 I enjoy reverse engineering games, building my own cheats, and using them whenever I play.
+🎮 I enjoy reverse engineering games, building my own cheats, and using them whenever I play.<br>
+📺 I also share my game cheats on <a href="https://youtube.com/@peenjeeech">YouTube</a> and <a href="https://t.me/peenjeeech">Telegram</a>.
 </p>
-
-<br>
 
 <!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
