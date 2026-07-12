@@ -6,7 +6,12 @@
 
 <h1 align="center">Hey, I'm Panji👋</h1>
 
-###
+<p align="center">
+💻 Passionate about software development.<br>
+🎮 I enjoy reverse engineering games and building my own cheats whenever I can.
+</p>
+
+<br>
 
 <!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
