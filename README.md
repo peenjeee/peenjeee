@@ -12,7 +12,7 @@
 📺 I also share my game cheats on my YouTube channels:
 <a href="https://youtube.com/@peenjeee">@peenjeee</a> &
 <a href="https://youtube.com/@peenjeeech">@peenjeeech</a>,
-and on <a href="https://t.me/peenjeeech">Telegram</a>.
+and on Telegram: <a href="https://t.me/peenjeeech">@peenjeeech</a>.
 </p>
 
 <!-- <div align="center">
