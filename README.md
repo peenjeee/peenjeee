@@ -6,9 +6,16 @@
 
 <h1 align="center">Hey, I'm Panji👋</h1>
 
-###
+<p align="center">
+💻 Passionate about software development.<br>
+🎮 I enjoy reverse engineering games, building my own cheats, and using them whenever I play.<br>
+📺 I also share my game cheats on my YouTube channels:
+<a href="https://youtube.com/@peenjeee">@peenjeee</a> &
+<a href="https://youtube.com/@peenjeeech">@peenjeeech</a>,
+and on Telegram: <a href="https://t.me/peenjeeech">@peenjeeech</a>.
+</p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
@@ -38,7 +45,7 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="60" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="60" alt="supabase logo"  />
-</div>
+</div> -->
 
 ###
 
@@ -47,7 +54,7 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.linkedin.com/in/panjiihsanudinfajri/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -57,7 +64,7 @@
   <a href="https://www.instagram.com/peenjeee_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-</div>
+</div> -->
 
 
 ###
