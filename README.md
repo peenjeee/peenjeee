@@ -1,82 +1,37 @@
-<!-- <div align="center">
-  <img src="https://count.getloli.com/@:peenjeee?theme=sketch-2&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div> -->
-
-###
-
-<h1 align="center">Hey, I'm Panji👋</h1>
-
-<p align="center">
-💻 Passionate about software development.<br>
-🎮 I enjoy reverse engineering games, building my own cheats, and using them whenever I play.<br>
-📺 I also share my game cheats on my YouTube channels:
-<a href="https://youtube.com/@peenjeee">@peenjeee</a> &
-<a href="https://youtube.com/@peenjeeech">@peenjeeech</a>,
-and on Telegram: <a href="https://t.me/peenjeeech">@peenjeeech</a>.
-</p>
-
-<!-- <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="60" alt="codeigniter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="60" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="60" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="60" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="60" alt="supabase logo"  />
-</div> -->
-
-###
-
-<div align="center">
-</div>
-
-###
-
-<!-- <div align="center">
-  <a href="https://www.linkedin.com/in/panjiihsanudinfajri/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@peenjeee" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/peenjeee_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div> -->
-
-
-###
-
-<!-- <div align="center">
-  
-  ![](https://github-readme-stats.shion.dev/api?username=peenjeee&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-</div> -->
-
-<!-- <div align="center">
-  <img src="https://githubcard.com/peenjeee.svg?d=1GcHQ_LPE2bM" alt="GitHubCard" />
-</div> -->
-
-
-###
+<h6>
+<img src="slices/00-0.svg" width="100%" align="top" alt=""><br>
+<img src="slices/01-0.svg" width="53.555%" align="top" alt=""><a href="https://youtube.com/@peenjeee"><img src="slices/01-1.svg" width="8.836%" align="top" alt="@peenjeee"></a><img src="slices/01-2.svg" width="2.557%" align="top" alt=""><a href="https://youtube.com/@peenjeeech"><img src="slices/01-3.svg" width="10.725%" align="top" alt="@peenjeeech"></a><img src="slices/01-4.svg" width="24.327%" align="top" alt=""><br>
+<img src="slices/02-0.svg" width="6%" align="top" alt=""><a href="https://t.me/peenjeeech"><img src="slices/02-1.svg" width="10.725%" align="top" alt="@peenjeeech"></a><img src="slices/02-2.svg" width="83.275%" align="top" alt=""><br>
+<img src="slices/03-0.svg" width="100%" align="top" alt=""><br>
+<img src="slices/04-0.svg" width="42.66%" align="top" alt=""><a href="https://sertiku.id/"><img src="slices/04-1.svg" width="6.223%" align="top" alt="SertiKu"></a><img src="slices/04-2.svg" width="51.117%" align="top" alt=""><br>
+<img src="slices/05-0.svg" width="100%" align="top" alt=""><br>
+<img src="slices/06-0.svg" width="6%" align="top" alt=""><a href="https://github.com/peenjeee/chess-analyzer"><img src="slices/06-1.svg" width="11.771%" align="top" alt="chess-analyzer"></a><img src="slices/06-2.svg" width="82.229%" align="top" alt=""><br>
+<img src="slices/07-0.svg" width="6%" align="top" alt=""><a href="https://github.com/peenjeee/chess-userscript"><img src="slices/07-1.svg" width="12.773%" align="top" alt="chess-userscript"></a><img src="slices/07-2.svg" width="81.227%" align="top" alt=""><br>
+<img src="slices/08-0.svg" width="6%" align="top" alt=""><a href="https://github.com/peenjeee/coc-auto"><img src="slices/08-1.svg" width="6.885%" align="top" alt="coc-auto"></a><img src="slices/08-2.svg" width="87.115%" align="top" alt=""><br>
+<img src="slices/09-0.svg" width="6%" align="top" alt=""><a href="https://github.com/peenjeee/pnj-ch"><img src="slices/09-1.svg" width="5.109%" align="top" alt="pnj-ch"></a><img src="slices/09-2.svg" width="88.891%" align="top" alt=""><br>
+<img src="slices/10-0.svg" width="6%" align="top" alt=""><a href="https://github.com/peenjeee/geoguessr-reverse-engineering"><img src="slices/10-1.svg" width="24.504%" align="top" alt="geoguessr-reverse-engineering"></a><img src="slices/10-2.svg" width="69.496%" align="top" alt=""><br>
+<img src="slices/11-0.svg" width="100%" align="top" alt=""><br>
+<img src="slices/12-0.svg" width="6%" align="top" alt=""><a href="https://github.com/peenjeee/auto-geoguessr"><img src="slices/12-1.svg" width="12.107%" align="top" alt="auto-geoguessr"></a><img src="slices/12-2.svg" width="81.893%" align="top" alt=""><br>
+<img src="slices/13-0.svg" width="100%" align="top" alt=""><br>
+<img src="slices/14-0.svg" width="6%" align="top" alt=""><a href="https://sertiku.id/"><img src="slices/14-1.svg" width="6.223%" align="top" alt="SertiKu"></a><img src="slices/14-2.svg" width="87.777%" align="top" alt=""><br>
+<img src="slices/15-0.svg" width="6%" align="top" alt=""><a href="https://jivara.web.id/"><img src="slices/15-1.svg" width="4.775%" align="top" alt="Jivara"></a><img src="slices/15-2.svg" width="89.225%" align="top" alt=""><br>
+<img src="slices/16-0.svg" width="6%" align="top" alt=""><a href="https://bogorxplore.my.id/"><img src="slices/16-1.svg" width="10.555%" align="top" alt="BogorXplore"></a><img src="slices/16-2.svg" width="83.445%" align="top" alt=""><br>
+<img src="slices/17-0.svg" width="6%" align="top" alt=""><a href="https://inapsi.amikom.ac.id/"><img src="slices/17-1.svg" width="6.445%" align="top" alt="INAPSI"></a><img src="slices/17-2.svg" width="87.555%" align="top" alt=""><br>
+<img src="slices/18-0.svg" width="6%" align="top" alt=""><a href="https://geo.0xpnj.dev/"><img src="slices/18-1.svg" width="13.768%" align="top" alt="GeoGuessr Tools"></a><img src="slices/18-2.svg" width="1.666%" align="top" alt=""><a href="https://gc.0xpnj.dev/"><img src="slices/18-3.svg" width="17.496%" align="top" alt="GeoGuessr Challenge"></a><img src="slices/18-4.svg" width="1.666%" align="top" alt=""><a href="https://gr.0xpnj.dev/"><img src="slices/18-5.svg" width="14.521%" align="top" alt="GeoResolver Web"></a><img src="slices/18-6.svg" width="44.883%" align="top" alt=""><br>
+<img src="slices/19-0.svg" width="6%" align="top" alt=""><a href="https://chess.0xpnj.dev/"><img src="slices/19-1.svg" width="12.498%" align="top" alt="Chess Analyzer"></a><img src="slices/19-2.svg" width="81.502%" align="top" alt=""><br>
+<img src="slices/20-0.svg" width="6%" align="top" alt=""><a href="https://ml.0xpnj.dev/"><img src="slices/20-1.svg" width="21.943%" align="top" alt="MLBB Mod Menu Archive"></a><img src="slices/20-2.svg" width="72.057%" align="top" alt=""><br>
+<img src="slices/21-0.svg" width="6%" align="top" alt=""><a href="https://peka.ai.id/"><img src="slices/21-1.svg" width="3.889%" align="top" alt="Peka"></a><img src="slices/21-2.svg" width="1.631%" align="top" alt=""><a href="https://warganet.peka.ai.id/"><img src="slices/21-3.svg" width="10.076%" align="top" alt="Warganet AI"></a><img src="slices/21-4.svg" width="1.666%" align="top" alt=""><a href="https://wowo.peka.ai.id/"><img src="slices/21-5.svg" width="9.412%" align="top" alt="Kata Wowo"></a><img src="slices/21-6.svg" width="1.557%" align="top" alt=""><a href="https://aidnara.web.id/"><img src="slices/21-7.svg" width="8.941%" align="top" alt="Aidnara AI"></a><img src="slices/21-8.svg" width="56.828%" align="top" alt=""><br>
+<img src="slices/22-0.svg" width="100%" align="top" alt=""><br>
+<img src="slices/23-0.svg" width="13.057%" align="top" alt=""><a href="https://github.com/peenjeee"><img src="slices/23-1.svg" width="16.605%" align="top" alt="github.com/peenjeee"></a><img src="slices/23-2.svg" width="70.338%" align="top" alt=""><br>
+<img src="slices/24-0.svg" width="14.34%" align="top" alt=""><a href="https://youtube.com/@peenjeee"><img src="slices/24-1.svg" width="8.836%" align="top" alt="@peenjeee"></a><img src="slices/24-2.svg" width="1.666%" align="top" alt=""><a href="https://youtube.com/@peenjeeech"><img src="slices/24-3.svg" width="10.725%" align="top" alt="@peenjeeech"></a><img src="slices/24-4.svg" width="64.433%" align="top" alt=""><br>
+<img src="slices/25-0.svg" width="14.578%" align="top" alt=""><a href="https://t.me/peenjeeech"><img src="slices/25-1.svg" width="10.725%" align="top" alt="@peenjeeech"></a><img src="slices/25-2.svg" width="74.697%" align="top" alt=""><br>
+<img src="slices/26-0.svg" width="14.387%" align="top" alt=""><a href="https://www.linkedin.com/in/panjiihsanudinfajri/"><img src="slices/26-1.svg" width="15.107%" align="top" alt="panjiihsanudinfajri"></a><img src="slices/26-2.svg" width="70.506%" align="top" alt=""><br>
+<img src="slices/27-0.svg" width="8.5%" align="top" alt=""><a href="https://x.com/peenjeee_"><img src="slices/27-1.svg" width="9.836%" align="top" alt="@peenjeee_"></a><img src="slices/27-2.svg" width="81.664%" align="top" alt=""><br>
+<img src="slices/28-0.svg" width="18.332%" align="top" alt=""><a href="https://huggingface.co/Peenjeee"><img src="slices/28-1.svg" width="7.107%" align="top" alt="Peenjeee"></a><img src="slices/28-2.svg" width="74.561%" align="top" alt=""><br>
+<img src="slices/29-0.svg" width="10.945%" align="top" alt=""><a href="https://peenjeee.tech/"><img src="slices/29-1.svg" width="10.826%" align="top" alt="peenjeee.tech"></a><img src="slices/29-2.svg" width="78.229%" align="top" alt=""><br>
+<img src="slices/30-0.svg" width="15.055%" align="top" alt=""><a href="https://0xpnj.dev/"><img src="slices/30-1.svg" width="7.943%" align="top" alt="0xpnj.dev"></a><img src="slices/30-2.svg" width="77.002%" align="top" alt=""><br>
+<img src="slices/31-0.svg" width="11.611%" align="top" alt=""><a href="https://www.panjiihsanudinfajri.me/"><img src="slices/31-1.svg" width="18.051%" align="top" alt="panjiihsanudinfajri.me"></a><img src="slices/31-2.svg" width="70.338%" align="top" alt=""><br>
+<img src="slices/32-0.svg" width="9.686%" align="top" alt=""><a href="https://panjiihsanudinfajri.cv/"><img src="slices/32-1.svg" width="17.496%" align="top" alt="panjiihsanudinfajri.cv"></a><img src="slices/32-2.svg" width="1.666%" align="top" alt=""><a href="https://panjiihsanudinfajri.cv/resume"><img src="slices/32-3.svg" width="5.775%" align="top" alt="resume"></a><img src="slices/32-4.svg" width="1.666%" align="top" alt=""><a href="https://panjiihsanudinfajri.cv/certificate"><img src="slices/32-5.svg" width="8.771%" align="top" alt="certificates"></a><img src="slices/32-6.svg" width="54.94%" align="top" alt=""><br>
+<img src="slices/33-0.svg" width="11.832%" align="top" alt=""><a href="mailto:panjiihsanudinfajri165@gmail.com"><img src="slices/33-1.svg" width="28.447%" align="top" alt="panjiihsanudinfajri165@gmail.com"></a><img src="slices/33-2.svg" width="59.721%" align="top" alt=""><br>
+<img src="slices/34-0.svg" width="100%" align="top" alt=""><br>
+</h6>
