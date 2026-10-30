@@ -33,5 +33,6 @@
 <img src="slices/31-0.svg" width="11.611%" align="top" alt=""><a href="https://www.panjiihsanudinfajri.me/"><img src="slices/31-1.svg" width="18.051%" align="top" alt="panjiihsanudinfajri.me"></a><img src="slices/31-2.svg" width="70.338%" align="top" alt=""><br>
 <img src="slices/32-0.svg" width="9.686%" align="top" alt=""><a href="https://panjiihsanudinfajri.cv/"><img src="slices/32-1.svg" width="17.496%" align="top" alt="panjiihsanudinfajri.cv"></a><img src="slices/32-2.svg" width="1.666%" align="top" alt=""><a href="https://panjiihsanudinfajri.cv/resume"><img src="slices/32-3.svg" width="5.775%" align="top" alt="resume"></a><img src="slices/32-4.svg" width="1.666%" align="top" alt=""><a href="https://panjiihsanudinfajri.cv/certificate"><img src="slices/32-5.svg" width="8.771%" align="top" alt="certificates"></a><img src="slices/32-6.svg" width="54.94%" align="top" alt=""><br>
 <img src="slices/33-0.svg" width="11.832%" align="top" alt=""><a href="mailto:panjiihsanudinfajri165@gmail.com"><img src="slices/33-1.svg" width="28.447%" align="top" alt="panjiihsanudinfajri165@gmail.com"></a><img src="slices/33-2.svg" width="59.721%" align="top" alt=""><br>
-<img src="slices/34-0.svg" width="100%" align="top" alt=""><br>
+<img src="slices/34-0.svg" width="14.221%" align="top" alt=""><a href="https://dolix.ai.id/"><img src="slices/34-1.svg" width="8.111%" align="top" alt="dolix.ai.id"></a><img src="slices/34-2.svg" width="77.668%" align="top" alt=""><br>
+<img src="slices/35-0.svg" width="100%" align="top" alt=""><br>
 </h6>
