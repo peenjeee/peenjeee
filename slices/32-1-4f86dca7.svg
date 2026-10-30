@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="139.969" height="18" viewBox="77.4844 1082 139.969 18"><foreignObject x="0" y="0" width="800" height="1161"><div xmlns="http://www.w3.org/1999/xhtml" style="padding:8px"><style>div{color:#000}a{color:#0000ee;text-decoration:underline}@media (prefers-color-scheme:dark){div{color:#e6edf3}a{color:#4493f8}}</style>
+
+<h1>Hey, I'm Panji 👋</h1>
+
+<p>Software Engineer · Information Systems student · Yogyakarta, Indonesia</p>
+
+<ul>
+  <li>💻 Passionate about software development.</li>
+  <li>🎮 I enjoy reverse engineering games, building my own cheats, and using them whenever I play.</li>
+  <li>📺 I also share my game cheats on my YouTube channels: <a href="https://youtube.com/@peenjeee">@peenjeee</a> &amp; <a href="https://youtube.com/@peenjeeech">@peenjeeech</a>, and on Telegram: <a href="https://t.me/peenjeeech">@peenjeeech</a>.</li>
+</ul>
+
+<h2>About me</h2>
+
+<p>Information Systems student at University of AMIKOM Yogyakarta. I mainly build web and software products, with data analysis and AI on the side. Currently building <a href="https://sertiku.id">SertiKu</a> through the Amikom Business Park incubator and interning as a full-stack developer at the AMIKOM Information Systems study program.</p>
+
+<h2>Pinned projects</h2>
+
+<ul>
+  <li><a href="https://github.com/peenjeee/chess-analyzer">chess-analyzer</a> — JavaScript</li>
+  <li><a href="https://github.com/peenjeee/chess-userscript">chess-userscript</a> — JavaScript</li>
+  <li><a href="https://github.com/peenjeee/coc-auto">coc-auto</a> — Clash of Clans farming bot for LDPlayer (Python, ADB, OpenCV)</li>
+  <li><a href="https://github.com/peenjeee/pnj-ch">pnj-ch</a> — Lua</li>
+  <li><a href="https://github.com/peenjeee/geoguessr-reverse-engineering">geoguessr-reverse-engineering</a> — Chrome extension helper for GeoGuessr with exact placement, adjustable nearby score range, and embedded map preview.</li>
+  <li><a href="https://github.com/peenjeee/auto-geoguessr">auto-geoguessr</a> — An automated bot (Userscript) to play GeoGuessr automatically</li>
+</ul>
+
+<h2>Other projects</h2>
+
+<ul>
+  <li><a href="https://sertiku.id">SertiKu</a> — verifiable certificates with QR codes, Solidity, and IPFS. 1st place, ARCADIA × GEMASI 2026.</li>
+  <li><a href="https://jivara.web.id">Jivara</a> — AI health platform for medication schedules, food scanning, and reminders.</li>
+  <li><a href="https://bogorxplore.my.id">BogorXplore</a> — catalog of 296 Bogor destinations with search, maps, and recommendations.</li>
+  <li><a href="https://inapsi.amikom.ac.id">INAPSI</a> — service management and rating app for AMIKOM.</li>
+  <li><a href="https://geo.0xpnj.dev">GeoGuessr Tools</a> · <a href="https://gc.0xpnj.dev">GeoGuessr Challenge</a> · <a href="https://gr.0xpnj.dev">GeoResolver Web</a></li>
+  <li><a href="https://chess.0xpnj.dev">Chess Analyzer</a></li>
+  <li><a href="https://ml.0xpnj.dev">MLBB Mod Menu Archive</a></li>
+  <li><a href="https://peka.ai.id">Peka</a> · <a href="https://warganet.peka.ai.id">Warganet AI</a> · <a href="https://wowo.peka.ai.id">Kata Wowo</a> · <a href="https://aidnara.web.id">Aidnara AI</a></li>
+</ul>
+
+<h2>Tech</h2>
+
+<p>JavaScript, TypeScript, Python, Lua, React, Next.js, Vue, Nuxt, Astro, SvelteKit, SolidStart, Vite, Tailwind CSS, Bootstrap, jQuery, three.js, Express, Flask, Laravel, CodeIgniter, PostgreSQL, Supabase, Solidity, OpenCV, Computer Vision, ADB, Stockfish, Userscript, Chrome Extension</p>
+
+<h2>Links</h2>
+
+<ul>
+  <li>GitHub: <a href="https://github.com/peenjeee">github.com/peenjeee</a></li>
+  <li>YouTube: <a href="https://youtube.com/@peenjeee">@peenjeee</a> · <a href="https://youtube.com/@peenjeeech">@peenjeeech</a></li>
+  <li>Telegram: <a href="https://t.me/peenjeeech">@peenjeeech</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/panjiihsanudinfajri/">panjiihsanudinfajri</a></li>
+  <li>X: <a href="https://x.com/peenjeee_">@peenjeee_</a></li>
+  <li>Hugging Face: <a href="https://huggingface.co/Peenjeee">Peenjeee</a></li>
+  <li>Blog: <a href="https://peenjeee.tech">peenjeee.tech</a></li>
+  <li>Showcase: <a href="https://0xpnj.dev">0xpnj.dev</a></li>
+  <li>Links: <a href="https://www.panjiihsanudinfajri.me">panjiihsanudinfajri.me</a></li>
+  <li>CV: <a href="https://panjiihsanudinfajri.cv">panjiihsanudinfajri.cv</a> · <a href="https://panjiihsanudinfajri.cv/resume">resume</a> · <a href="https://panjiihsanudinfajri.cv/certificate">certificates</a></li>
+  <li>Email: <a href="mailto:panjiihsanudinfajri165@gmail.com">panjiihsanudinfajri165@gmail.com</a></li>
+  <li>My team: <a href="https://dolix.ai.id">dolix.ai.id</a></li>
+</ul>
+
+</div></foreignObject></svg>
